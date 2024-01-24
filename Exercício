@@ -1,1 +1,6 @@
 console.log('Olá Mundo');
+console.log('Atualizando o teste 2');
+// testando um comentário
+console.log('Teste novo');
+
+
